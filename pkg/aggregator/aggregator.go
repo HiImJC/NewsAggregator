@@ -54,7 +54,7 @@ func (a Aggregator) Stop() {
 
 type data struct {
 	Channel string
-	Art     []Article `json:"Article"`
+	Art     []Article `json:"Articles"`
 }
 
 func (a Aggregator) GetLatestData() []data {

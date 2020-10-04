@@ -18,5 +18,5 @@ func main() {
 		"http://feeds.skynews.com/feeds/rss/technology.xml",
 	}, 5*time.Second)
 
-	log.Fatal(api.StartServer(8080, a))
+	log.Fatal(api.StartServer(8081, a))
 }
