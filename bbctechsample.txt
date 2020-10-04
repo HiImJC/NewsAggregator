@@ -1,0 +1,164 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Technology]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Technology</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 03 Oct 2020 12:19:32 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Designer makes £77,000 from iPhone icons in a week]]></title>
+            <description><![CDATA[A viral tweet showcasing an iPhone homescreen design was an overnight hit for designer Traf.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54387339</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54387339</guid>
+            <pubDate>Sat, 03 Oct 2020 08:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disappearing Covid-19 app alerts cause alarm]]></title>
+            <description><![CDATA[Users of the England and Wales contact-tracing apps are reporting getting alerts which then vanish.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54389083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54389083</guid>
+            <pubDate>Fri, 02 Oct 2020 13:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airbnb blocks US Halloween bookings over party fears]]></title>
+            <description><![CDATA[The company wants to crack down on house parties after concerns of a second Covid wave.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54395664</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54395664</guid>
+            <pubDate>Fri, 02 Oct 2020 23:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nintendo wins £1.5m in Switch hacking case]]></title>
+            <description><![CDATA[An online store accused of selling piracy tools must also hand over its website address to Nintendo.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54386985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54386985</guid>
+            <pubDate>Fri, 02 Oct 2020 12:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E-scooters should be legalised says Transport Committee]]></title>
+            <description><![CDATA[But the Transport Committee also says riding on pavements is "dangerous" and should be prohibited.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54380251</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54380251</guid>
+            <pubDate>Fri, 02 Oct 2020 00:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon Ring: Phantom smart doorbell chimes alarm owners]]></title>
+            <description><![CDATA[Amazon says issues with its Ring bell were caused by infrastructure delays and apologises to owners.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54369305</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54369305</guid>
+            <pubDate>Thu, 01 Oct 2020 17:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blackbaud: Bank details and passwords at risk in giant charities hack]]></title>
+            <description><![CDATA[The National Trust is among those believed to be affected by the latest development.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54370568</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54370568</guid>
+            <pubDate>Thu, 01 Oct 2020 13:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Senate subpoenas heads of Google, Facebook and Twitter]]></title>
+            <description><![CDATA[Sundar Pichai, Mark Zuckerberg and Jack Dorsey will be quizzed by senators.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54376327</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54376327</guid>
+            <pubDate>Thu, 01 Oct 2020 15:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese vlogger dies after 'set on fire by ex during live stream']]></title>
+            <description><![CDATA[The death of Lamu has prompted discussion online about violence against women in China.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-54380148</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-54380148</guid>
+            <pubDate>Fri, 02 Oct 2020 04:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Pixel phone 'designed for economic downturn']]></title>
+            <description><![CDATA[The Pixel 5 loses several headline features of last year's flagship phone to hit a lower price tag.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54337766</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54337766</guid>
+            <pubDate>Wed, 30 Sep 2020 20:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the teens who developed a dementia app which uses music]]></title>
+            <description><![CDATA[A group of Nigerian-Irish teens have developed the Memory Haven app to help people with dementia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54375656</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54375656</guid>
+            <pubDate>Fri, 02 Oct 2020 07:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robotic virtual reality shoes and other tech stories]]></title>
+            <description><![CDATA[BBC Click’s Paul Carter looks at some of the best technology news stories of the week.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54280458</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54280458</guid>
+            <pubDate>Fri, 02 Oct 2020 06:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China's robot taxis: Would you ride in one?]]></title>
+            <description><![CDATA[Driverless taxis are now available in China’s biggest city, Shanghai. The BBC took a ride.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54379914</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54379914</guid>
+            <pubDate>Thu, 01 Oct 2020 23:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election: Whoever becomes the next president, social media is changing]]></title>
+            <description><![CDATA[Both Trump and Biden want to take away the US law that protects platforms from being liable for what their users post.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54363186</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54363186</guid>
+            <pubDate>Wed, 30 Sep 2020 23:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Train station tech helps passengers to socially distance]]></title>
+            <description><![CDATA[Real-time monitoring of commuters' movements helps staff to respond to congestion hot spots.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54280457</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54280457</guid>
+            <pubDate>Wed, 30 Sep 2020 07:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should you be buying a second-hand smartphone?]]></title>
+            <description><![CDATA[Selling refurbished electronics is a fast-growing business where customers can make big savings.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54160851</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54160851</guid>
+            <pubDate>Fri, 02 Oct 2020 09:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US 2020 election: Social media's nightmare scenario]]></title>
+            <description><![CDATA[Potential election chaos will play out on social media, and Big Tech is worried.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54311383</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54311383</guid>
+            <pubDate>Tue, 29 Sep 2020 05:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Covid-19 app: 12m downloads - and lots of questions]]></title>
+            <description><![CDATA[We look at why you can't log out of a venue, and how to change your postcode on the app.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54326267</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54326267</guid>
+            <pubDate>Mon, 28 Sep 2020 12:21:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus doctor's diary: Trying out tech that may help make worship Covid-secure]]></title>
+            <description><![CDATA[Dr John Wright looks at the kit installed in a Bradford mosque in the hope of limiting the spread of Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54344749</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54344749</guid>
+            <pubDate>Wed, 30 Sep 2020 00:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Covid-19 app: How England and Wales' contact-tracing service works]]></title>
+            <description><![CDATA[The app will tell you to self-isolate or be tested or warn of an elevated local risk level.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54250736</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54250736</guid>
+            <pubDate>Wed, 23 Sep 2020 23:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I monitor my staff with software that takes screenshots']]></title>
+            <description><![CDATA[Many have struggled to get to grips with working from home, but would surveillance technology help?]]></description>
+            <link>https://www.bbc.co.uk/news/business-54289152</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54289152</guid>
+            <pubDate>Tue, 29 Sep 2020 09:26:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

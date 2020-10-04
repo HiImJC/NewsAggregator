@@ -1,0 +1,128 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.skynews.com/feeds/rss/technology.xml" rel="self" type="application/rss+xml"/>
+    <title>Tech News - Latest Technology and Gadget News | Sky News</title>
+    <link>http://news.sky.com/technology</link>
+    <image>
+      <title>Tech News - Latest Technology and Gadget News | Sky News</title>
+      <url>http://feeds.skynews.com/images/web/logo/skynews_rss.png</url>
+      <link>http://news.sky.com/technology</link>
+    </image>
+    <description>Sky News technology provides you with all the latest tech and gadget news, game reviews, Internet and web news across the globe. Visit us today.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2016, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 03 Oct 2020 08:51:00 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>Trump is taking two experimental drugs for COVID-19 - what are they?</title>
+      <link>http://news.sky.com/story/trump-coronavirus-us-president-is-taking-two-experimental-drugs-what-are-they-12088489</link>
+      <description>Donald Trump has been given two experimental drugs after testing positive for COVID-19.</description>
+      <pubDate>Sat, 03 Oct 2020 08:51:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/trump-coronavirus-us-president-is-taking-two-experimental-drugs-what-are-they-12088489</guid>
+      <enclosure url="http://e3.365dm.com/20/10/70x70/skynews-donald-trump-coronavirus_5116594.jpg?20201003095801" length="0" type="image/jpeg"/>
+      <media:description type="html">Donald Trump leaves the White House to be flown to the Walter Reed Military Hospital in Maryland</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/10/70x70/skynews-donald-trump-coronavirus_5116594.jpg?20201003095801" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/20/10/70x70/skynews-donald-trump-coronavirus_5116594.jpg?20201003095801"/>
+    </item>
+    <item>
+      <title>More than half of us are reusing disposable masks - and others aren't being washed much</title>
+      <link>http://news.sky.com/story/coronavirus-more-than-half-of-us-are-reusing-disposable-masks-and-others-arent-being-washed-much-12087965</link>
+      <description>More than half of people who wear disposable face masks to protect against coronavirus are using them multiple times, while those who opt for reusable coverings are not washing them regularly,&amp;#160;the government's top scientific advisers have found.</description>
+      <pubDate>Fri, 02 Oct 2020 15:34:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/coronavirus-more-than-half-of-us-are-reusing-disposable-masks-and-others-arent-being-washed-much-12087965</guid>
+      <enclosure url="http://e3.365dm.com/20/10/70x70/2372010020167143007_5116012.jpg?20201002155151" length="0" type="image/jpeg"/>
+      <media:description type="html">Pedestrians wearing a face mask or covering due to the COVID-19 pandemic, walk past graffiti by the artist @akse_p19, depicting a nurse in scrubs and a face mask, but with an Angel's halo above her head, in Manchester, northwest England on August 3, 2020. - Britain's &quot;Eat out to Help out&quot; scheme began Monday, introduced last month by Chancellor Rishi Sunak to help boost the economy claw its way from a historic decline sparked by the coronavirus crisis. (Photo by Oli SCARFF / AFP) / RESTRICTED TO EDITORIAL USE - MANDATORY MENTION OF THE ARTIST UPON PUBLICATION - TO ILLUSTRATE THE EVENT AS SPECIFIED IN THE CAPTION (Photo by OLI SCARFF/AFP via Getty Images)</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/10/70x70/2372010020167143007_5116012.jpg?20201002155151" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/20/10/70x70/2372010020167143007_5116012.jpg?20201002155151"/>
+    </item>
+    <item>
+      <title>Head of MI6 launches Twitter recruitment drive</title>
+      <link>http://news.sky.com/story/head-of-mi6-launches-recruitment-drive-among-twitter-followers-12087602</link>
+      <description>The new head of the Secret Intelligence Service has said he will try and persuade some of his Twitter followers to work for MI6.</description>
+      <pubDate>Fri, 02 Oct 2020 10:22:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/head-of-mi6-launches-recruitment-drive-among-twitter-followers-12087602</guid>
+      <enclosure url="http://e3.365dm.com/20/10/70x70/skynews-richard-moore-mi6-ambassador_5115676.jpg?20201002112649" length="0" type="image/jpeg"/>
+      <media:description type="html">Richard Moore was Britain&amp;#39;s ambassador to Turkey between 2014 and 2017</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/10/70x70/skynews-richard-moore-mi6-ambassador_5115676.jpg?20201002112649" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/20/10/70x70/skynews-richard-moore-mi6-ambassador_5115676.jpg?20201002112649"/>
+    </item>
+    <item>
+      <title>GCHQ discovered 'nationally significant' vulnerability in Huawei equipment</title>
+      <link>http://news.sky.com/story/gchq-discovered-nationally-significant-vulnerability-in-huawei-equipment-12086688</link>
+      <description>Cyber security analysts tasked with investigating Huawei equipment used in the UK's telecommunications networks discovered a &quot;nationally significant&quot; vulnerability last year.</description>
+      <pubDate>Thu, 01 Oct 2020 11:06:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/gchq-discovered-nationally-significant-vulnerability-in-huawei-equipment-12086688</guid>
+      <enclosure url="http://e3.365dm.com/19/07/70x70/skynews-huawei-united-kingdom_4716099.jpg?20190712110243" length="0" type="image/jpeg"/>
+      <media:description type="html">A pedestrian walks past a Huawei product stand at an EE telecommunications shop in central London on April 29, 2019. - British Foreign Secretary Jeremy Hunt has urged caution over the role of China&amp;#39;s Huawei in the UK, saying the government should think carefully before opening its doors to the technology giant to develop next-generation 5G mobile networks. His comments come after Prime Minister Theresa May conditionally allowed China&amp;#39;s Huawei to build the UK 5G network, information that was leak</media:description>
+      <media:thumbnail url="http://e3.365dm.com/19/07/70x70/skynews-huawei-united-kingdom_4716099.jpg?20190712110243" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/19/07/70x70/skynews-huawei-united-kingdom_4716099.jpg?20190712110243"/>
+    </item>
+    <item>
+      <title>COVID-19 antibodies in donated blood plasma decline rapidly, warns study</title>
+      <link>http://news.sky.com/story/coronavirus-antibodies-in-donated-plasma-decline-rapidly-after-first-symptoms-warns-study-12086913</link>
+      <description>COVID-19 antibodies in blood plasma donations appear to drop within just months of symptoms emerging, a study has warned.</description>
+      <pubDate>Thu, 01 Oct 2020 14:54:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/coronavirus-antibodies-in-donated-plasma-decline-rapidly-after-first-symptoms-warns-study-12086913</guid>
+      <enclosure url="http://e3.365dm.com/20/09/70x70/skynews-plasma-nhs_5113272.jpg?20200929223206" length="0" type="image/jpeg"/>
+      <media:description type="html">Aubrey Dhanraj, a plasma donor lies on reclining seat to give convalescent plasma for coronavirus treatment at a newly opened plasma donor centre in Twickenham, southwest London on June 11, 2020. - It is part of an ongoing trial to see if the antibodies in the plasma from survivors of COVID-19 can be used to treat those currently battling to recover from the virus. (Photo by Ben STANSALL / AFP) (Photo by BEN STANSALL/AFP via Getty Images)</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/09/70x70/skynews-plasma-nhs_5113272.jpg?20200929223206" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/20/09/70x70/skynews-plasma-nhs_5113272.jpg?20200929223206"/>
+    </item>
+    <item>
+      <title>Google reveals new 5G Pixel smartphone with cheaper price tag and gaming offering</title>
+      <link>http://news.sky.com/story/google-reveals-pixel-5-smartphone-alongside-new-nest-smart-speaker-12086631</link>
+      <description>Google has unveiled its Pixel 5 smartphone - a 5G-compatible flagship device with a more affordable price tag - and an updated Nest smart speaker, alongside new services including Google TV.</description>
+      <pubDate>Thu, 01 Oct 2020 09:45:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/google-reveals-pixel-5-smartphone-alongside-new-nest-smart-speaker-12086631</guid>
+      <enclosure url="http://e3.365dm.com/20/10/70x70/skynews-google-pixel-phone_5114553.png?20201001095107" length="0" type="image/png"/>
+      <media:description type="html">A Pixel phone streaming games using Google Stadia</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/10/70x70/skynews-google-pixel-phone_5114553.png?20201001095107" width="70" height="70"/>
+      <media:content type="image/png" url="http://e3.365dm.com/20/10/70x70/skynews-google-pixel-phone_5114553.png?20201001095107"/>
+    </item>
+    <item>
+      <title>Six galaxies found trapped in 'spider's web' of supermassive black hole</title>
+      <link>http://news.sky.com/story/astronomers-find-six-galaxies-trapped-in-spiders-web-of-supermassive-black-hole-12086618</link>
+      <description>Astronomers have found six galaxies lying around a supermassive black hole in a cosmic &quot;spider's web&quot; of gas extending to more than 300 times the size of the Milky Way.</description>
+      <pubDate>Thu, 01 Oct 2020 09:53:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/astronomers-find-six-galaxies-trapped-in-spiders-web-of-supermassive-black-hole-12086618</guid>
+      <enclosure url="http://e3.365dm.com/20/10/70x70/skynews-blackhole-six-galaxies_5114558.jpg?20201001095601" length="0" type="image/jpeg"/>
+      <media:description type="html">An artist&amp;#39;s impression of the web of a supermassive black hole</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/10/70x70/skynews-blackhole-six-galaxies_5114558.jpg?20201001095601" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/20/10/70x70/skynews-blackhole-six-galaxies_5114558.jpg?20201001095601"/>
+    </item>
+    <item>
+      <title>Some users of NHS tracing app incorrectly given COVID-19 exposure alerts</title>
+      <link>http://news.sky.com/story/coronavirus-some-users-of-nhs-tracing-app-incorrectly-given-covid-19-exposure-alerts-12086225</link>
+      <description>Some users of the new NHS contact-tracing app have received notifications saying they'd been near someone with coronavirus, only to discover the alerts were system checks sent by Google and Apple.</description>
+      <pubDate>Wed, 30 Sep 2020 18:25:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/coronavirus-some-users-of-nhs-tracing-app-incorrectly-given-covid-19-exposure-alerts-12086225</guid>
+      <enclosure url="http://e3.365dm.com/20/09/70x70/skynews-nhs-track-and-trace_5114067.jpg?20200930191844" length="0" type="image/jpeg"/>
+      <media:description type="html">NHS COVID-19 track and trace app sends false messages due to Google and Apple tests. Pic: Roland Manthorpe</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/09/70x70/skynews-nhs-track-and-trace_5114067.jpg?20200930191844" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/20/09/70x70/skynews-nhs-track-and-trace_5114067.jpg?20200930191844"/>
+    </item>
+    <item>
+      <title>Earth may have 'lost 60% of its atmosphere' in collision that formed the Moon</title>
+      <link>http://news.sky.com/story/earth-may-have-lost-60-of-its-atmosphere-in-collision-that-formed-the-moon-12085596</link>
+      <description>Earth may have lost up to 60% of its atmosphere in a collision that led to the formation of the Moon more than four billion years ago, scientists believe.</description>
+      <pubDate>Tue, 29 Sep 2020 22:29:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/earth-may-have-lost-60-of-its-atmosphere-in-collision-that-formed-the-moon-12085596</guid>
+      <enclosure url="http://e3.365dm.com/20/09/70x70/skynews-moon-earth-nasa_5113271.jpg?20200929222919" length="0" type="image/jpeg"/>
+      <media:description type="html">A view of the Earth appears over the Lunar horizon as the Apollo 11 Command Module comes into view of the Moon before Astronatus Neil Armstrong and Edwin Aldrin Jr. leave in the Lunar Module, Eagle, to become the first men to walk on the Moon&amp;#39;s surface</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/09/70x70/skynews-moon-earth-nasa_5113271.jpg?20200929222919" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/20/09/70x70/skynews-moon-earth-nasa_5113271.jpg?20200929222919"/>
+    </item>
+    <item>
+      <title>Jet pack paramedic suit tested in the Lake District</title>
+      <link>http://news.sky.com/story/jet-pack-paramedic-suit-tested-in-the-lake-district-that-can-get-to-patients-in-minutes-12085419</link>
+      <description>Jet pack paramedics could soon be a reality, after a successful test flight took place over the Lake District.</description>
+      <pubDate>Tue, 29 Sep 2020 18:06:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/jet-pack-paramedic-suit-tested-in-the-lake-district-that-can-get-to-patients-in-minutes-12085419</guid>
+      <enclosure url="http://e3.365dm.com/20/09/70x70/skynews-jet-pack-lake-district_5113042.png?20200929182045" length="0" type="image/png"/>
+      <media:description type="html">It is the first trial of its kind. Pic: Gravity Industries</media:description>
+      <media:thumbnail url="http://e3.365dm.com/20/09/70x70/skynews-jet-pack-lake-district_5113042.png?20200929182045" width="70" height="70"/>
+      <media:content type="image/png" url="http://e3.365dm.com/20/09/70x70/skynews-jet-pack-lake-district_5113042.png?20200929182045"/>
+    </item>
+  </channel>
+</rss>
