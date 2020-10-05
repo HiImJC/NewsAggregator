@@ -1,0 +1,18 @@
+[
+  {
+    "URL": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+    "Categories": ["General"]
+  },
+  {
+    "URL": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+    "Categories": ["Tech"]
+  },
+  {
+    "URL": "http://feeds.skynews.com/feeds/rss/uk.xml",
+    "Categories": ["General"]
+  },
+  {
+    "URL": "http://feeds.skynews.com/feeds/rss/technology.xml",
+    "Categories": ["Tech"]
+  }
+]

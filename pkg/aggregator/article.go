@@ -16,6 +16,7 @@ type Article interface {
 
 type BBCArticle struct {
 	rss.Item
+	additionalCategories []string // Not strictly needed, added to prove off the API
 }
 
 func (bbc BBCArticle) PublishDate() (time.Time, error) {
@@ -45,14 +46,15 @@ func (bbc BBCArticle) MarshalJSON() ([]byte, error) {
 		Title:         bbc.Title,
 		Snippet:       bbc.Description,
 		PublishDate:   pd.Format(time.RFC1123),
-		Categories:    bbc.Category,
+		Categories:    append(bbc.Category, bbc.additionalCategories...),
 		ThumbnailLink: "TODO",
-		Provider:      "BBC News",
+		Provider:      "BBCNews",
 	})
 }
 
 type SkyArticle struct {
 	rss.Item
+	additionalCategories []string // Not strictly needed, added to prove off the API
 }
 
 func (sky SkyArticle) PublishDate() (time.Time, error) {
@@ -82,8 +84,8 @@ func (sky SkyArticle) MarshalJSON() ([]byte, error) {
 		Title:         sky.Title,
 		Snippet:       sky.Description,
 		PublishDate:   pd.Format(time.RFC1123),
-		Categories:    sky.Category,
+		Categories:    append(sky.Category, sky.additionalCategories...),
 		ThumbnailLink: "TODO",
-		Provider:      "Sky News",
+		Provider:      "SkyNews",
 	})
 }

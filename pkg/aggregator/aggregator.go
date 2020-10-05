@@ -15,11 +15,17 @@ import (
 type Aggregator struct {
 	logger       *log.Logger
 	channelCache map[string]*cache.Cache
-	feeds        []string
+	feeds        Feeds
 	cancelFunc   context.CancelFunc
 }
 
-func New(f []string, tick time.Duration) Aggregator {
+type Feed struct {
+	URL        string
+	Categories []string
+}
+type Feeds []Feed
+
+func New(f Feeds, tick time.Duration) Aggregator {
 	ctx, cancel := context.WithCancel(context.Background())
 
 	a := Aggregator{
@@ -29,7 +35,7 @@ func New(f []string, tick time.Duration) Aggregator {
 		cancelFunc:   cancel,
 	}
 
-	a.Start(ctx, tick)
+	go a.Start(ctx, tick)
 
 	return a
 }
@@ -79,16 +85,16 @@ func (a Aggregator) GetLatestData() []data {
 }
 
 func (a Aggregator) RefreshData() {
-	for _, stringURL := range a.feeds {
-		a.logger.Println("fetching data for feed: " + stringURL)
+	for _, f := range a.feeds {
+		a.logger.Println("fetching data for feed: " + f.URL)
 
-		url, err := url.Parse(stringURL)
+		url, err := url.Parse(f.URL)
 		if err != nil {
 			panic(err)
 		}
 
 		//Always pass false here as Reddit is not a supported RSS host
-		resp, err := rss.Read(stringURL, false)
+		resp, err := rss.Read(f.URL, false)
 		if err != nil {
 			panic(err)
 		}
@@ -101,16 +107,16 @@ func (a Aggregator) RefreshData() {
 		a.logger.Println("channel is: " + channel.Description)
 
 		// channel is a single RSS feed, containing multiple items.
-		channelCache, ok := a.channelCache[stringURL]
+		channelCache, ok := a.channelCache[f.URL]
 		if !ok {
 			// This is the first time we have seen this channel,
 			// create a cache.
 			channelCache = cache.New()
-			a.channelCache[stringURL] = channelCache
+			a.channelCache[f.URL] = channelCache
 		}
 
 		for _, item := range channel.Item {
-			article, err := convertItemToArticle(url, item)
+			article, err := convertItemToArticle(url, item, f.Categories)
 			if err != nil {
 				a.logger.Println(err)
 				break
@@ -130,11 +136,6 @@ func (a Aggregator) RefreshData() {
 		}
 
 	}
-
-	//body, err := ioutil.ReadAll(resp.Body)
-	//if err != nil {
-	//	panic(err)
-	//}
 }
 
 func addArticleToCache(c *cache.Cache, a Article) (bool, error) {
@@ -169,12 +170,12 @@ func addArticleToCache(c *cache.Cache, a Article) (bool, error) {
 	return false, nil
 }
 
-func convertItemToArticle(feed *url.URL, item rss.Item) (Article, error) {
+func convertItemToArticle(feed *url.URL, item rss.Item, additionalCategories []string) (Article, error) {
 	switch feed.Host {
 	case "feeds.bbci.co.uk":
-		return BBCArticle{item}, nil
+		return BBCArticle{item, additionalCategories}, nil
 	case "feeds.skynews.com":
-		return SkyArticle{item}, nil
+		return SkyArticle{item, additionalCategories}, nil
 	}
 
 	return nil, errors.New("Unsupported feed type: " + feed.Host)
